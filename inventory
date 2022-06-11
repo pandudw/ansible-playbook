@@ -1,0 +1,3 @@
+[dev]
+167.71.212.103  ansible_user=root
+172.111.210.54  ansible_user=root
